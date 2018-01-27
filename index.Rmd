@@ -9,7 +9,7 @@ documentclass: book
 <!-- This won't be displayed but it will initialize your R session. Add any R libraries you need here. -->
 ```{r init,include=FALSE,echo=FALSE}
 library(magrittr)
-readLines('https://www.zotero.org/api/users/4661844/items/top?limit=25&format=bibtex&key=irMkIdfSYmIOc8PoUBz0nzTE&v=1') %>% writeLines('references.bib')
+readLines('https://www.zotero.org/api/users/4661844/collections/7LK528ZJ/items/top?limit=25&format=bibtex&key=irMkIdfSYmIOc8PoUBz0nzTE&v=1') %>% writeLines('references.bib')
 ```
 
 
