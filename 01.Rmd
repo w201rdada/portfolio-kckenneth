@@ -18,4 +18,4 @@ With regards to the statement above, we are now embarking upon an era of beginni
 
 With a sentient machine, we can deploy their utility in foster home and lonely people who just need a touch of human interaction. By providing what seems to be missing in their hearts, sentient machine can fulfill a part of our society and can establish themselves as a small domain. 
 
-test[@saxenian1994]
+test(@saxenian1994)
