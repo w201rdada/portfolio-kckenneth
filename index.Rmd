@@ -19,16 +19,16 @@ readLines('https://www.zotero.org/api/users/4661844/collections/7LK528ZJ/items/t
 # Welcome! {-}
 
 <!-- You can include images saved within your repo... -->
-```{r hello-world,echo=FALSE,fig.cap='Hello Data',fig.align='center',out.width='50%'}
-knitr::include_graphics('img/data-science.png')
+```{r hello-world,echo=FALSE,fig.cap='Hello Brain',fig.align='center',out.width='50%'}
+knitr::include_graphics('img/neural-network-ani.jpg')
 ```
 
-How are you doing? I hope my portfolio will show you how the world is rapidly changing with many powerful applications of machine learning and massive data we have accumulated over the years. I'm interested in computer algorithms and neural networks. If I am given the value of x and my ability to multiply it automatically to suit my need, do you consider that as an algorithm-driven robot or a self-conscious human being? We will explore more together with my idea on how much of a thing that a recent rise in powerful neural networks performance has sparked in many fields such as facial recognition, voice recognition and including sentient machines. 
+How are you doing? I hope my portfolio will show you how the world is rapidly changing with many powerful applications of machine learning and massive data we have accumulated over the years. I'm interested in computer algorithms and neural networks. If I am given the value of x and my ability to multiply it automatically to suit my need, do you consider that as an algorithm-driven robot or a self-conscious human being? We will explore more together with my idea on how much of a thing that a recent rise in powerful neural networks performance has sparked many applications in many fields such as facial recognition, voice recognition and including sentient machines. 
 
 <!-- Below this line is just examples of how you can embed video from Google Drive. First you have to enable sharing, then just get the object ID which is that long string between d/ and /preview and will also be appended to any sharing link you generate for your video. -->
 <p>
-```{r hello-benji,echo=FALSE,fig.cap='Hello Benjamin Franklin!',fig.align='center'}
-knitr::include_url('https://drive.google.com/file/d/0B6bobRDQR96iVEV3SXJJal9CczQ/preview')
+```{r hello-benji,echo=FALSE,fig.cap='Hello Neural Network!',fig.align='center'}
+knitr::include_graphics('img/neural-network.jpeg')
 ```
 
 ### Abstract of my first cool idea {-}
