@@ -12,11 +12,10 @@ If and only if could machines understand what we think. If consciousness is one 
 
 ## A middle.
 
-With regards to the statement above, we are now embarking upon an era of beginning of sentiment machine. Can machines think? Do machine have knowledge? With the development of multi-convoluted neural networks with a powerful capacity, sentient machine or bots can speak to each other in way that we have never imagined before. Recently in FAIR (Facebook AI Research) two bots were communicating in their own language<https://gizmodo.com/no-facebook-did-not-panic-and-shut-down-an-ai-program-1797414922>. This sparks my idea of 'sentient machine'. 
+With regards to the statement above, we are now embarking upon an era of beginning of sentiment machine. Can machines think? Do machine have knowledge? With the development of multi-convoluted neural networks with a powerful capacity, sentient machine or bots can speak to each other in way that we have never imagined before. Recently in FAIR (Facebook AI Research) two bots were communicating in their own language[@mckay_no_nodate]. If we also look at the ancient game 'Go' where the number of possible 'Go' games is far more larger than all the atoms combined in the universe. The game has an intricacy of human cognitive abilities and strategic movement. The game stood the test of time for at least 3000 years. Now with a more powerful neural networks developed at Google Deepmind, AlphaGo has managed to beat the top player from South Korea, Lee Sedol two out of three games[@knapton_alphago_2017]. This performance of convolutional neural networks has indeed piqued interest in many neural networks community. Recently without training a convolutional neural networks, the algorithm quickly learn and master the game of 'Go'[@silver_mastering_2017].
 
 ## An end.
 
 With a sentient machine, we can deploy their utility in foster home and lonely people who just need a touch of human interaction. By providing what seems to be missing in their hearts, sentient machine can fulfill a part of our society and can establish themselves as a small domain. 
 
-test(@saxenian1994)
-test[@dehaene_what_2017] Does it work?
+

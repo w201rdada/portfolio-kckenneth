@@ -39,7 +39,7 @@ A simple classification of yes or no in neural network (NN) has existed since la
 
 ### Sentient Robots {-}
 
-If and only if could machines understand what we think. If consciousness is one of the fundamentals that make a difference between living species and machines, I wonder what about a flying bird? Do humans have consciousness of flying? What about other people's mind? We can only imagine what other people think in their minds. One own's consciousness can never be shared with others. There was never a visceral experience that can be gained from somebody else consciousness. In fact, experiences are derivatives based on one's own personal experience. 
+If and only if could machines understand what we think. If consciousness is one of the fundamentals that make a difference between living species and machines, I wonder what about a flying bird? Do humans have consciousness of flying? What about other people's mind? We can only imagine what other people think in their minds. One own's consciousness can never be shared with others. There was never a visceral experience that can be gained from somebody else consciousness. In fact, experiences are derivatives based on one's own personal experience. Recently there is a debate on if conciousness can really be applied to machine[@@dehaene_what_2017][@carter_conscious_2018].
 
 ## About the author {-}
 
