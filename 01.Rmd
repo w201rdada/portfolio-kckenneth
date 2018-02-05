@@ -1,21 +1,25 @@
-# My first cool idea {#slug-one}
+# Neural Networks {#slug-two}
 
-Author: Kenneth Chen
+#### Keywords {-}
 
-#### Machine learning, sentient algorithms
+Authors: Kenneth Chen
 
-A sentient robot
+## Neural Networks and Consciousness.
 
-## A beginning.
+Recently there is a debate in scientific community if machine could ever develop consciousness. What defines consciousness? Authors Stanislas and colleagues claimed that it is not possible for machine to develop consciousness [@dehaene_what_2017]. It's hard to define consciousness when there are many domains that play a role in being conscious of something. It could be our being present at the moment, our ability to interact with surrounding, etc etc etc. 
 
-If and only if could machines understand what we think. If consciousness is one of the fundamentals that make a difference between living species and machines, I wonder what about a flying bird? Do humans have consciousness of flying? What about other people's mind? We can only imagine what other people think in their minds. One own's consciousness can never be shared with others. There was never a visceral experience that can be gained from somebody else consciousness. In fact, experiences are derivatives based on one's own personal experience. 
+```{r hello-benji,echo=FALSE,fig.cap='Network',fig.align='center'}
+knitr::include_graphics('img/neural-network-ani.jpg')
+```
 
-## A middle.
+## The Game of Neural Network in Ancient Game.
 
-With regards to the statement above, we are now embarking upon an era of beginning of sentiment machine. Can machines think? Do machine have knowledge? With the development of multi-convoluted neural networks with a powerful capacity, sentient machine or bots can speak to each other in way that we have never imagined before. Recently in FAIR (Facebook AI Research) two bots were communicating in their own language[@mckay_no_nodate]. If we also look at the ancient game 'Go' where the number of possible 'Go' games is far more larger than all the atoms combined in the universe. The game has an intricacy of human cognitive abilities and strategic movement. The game stood the test of time for at least 3000 years. Now with a more powerful neural networks developed at Google Deepmind, AlphaGo has managed to beat the top player from South Korea, Lee Sedol two out of three games[@knapton_alphago_2017]. This performance of convolutional neural networks has indeed piqued interest in many neural networks community. Recently without training a convolutional neural networks, the algorithm quickly learn and master the game of 'Go'[@silver_mastering_2017].
+If we also look at the ancient game 'Go' where the number of possible 'Go' games is far more larger than all the atoms combined in the universe. The game has an intricacy of human cognitive abilities and strategic movement. The game stood the test of time for at least 3000 years. Now with a more powerful neural networks developed at Google Deepmind, AlphaGo has managed to beat the top player from South Korea, Lee Sedol two out of three games[@knapton_alphago_2017]. This performance of convolutional neural networks has indeed piqued interest in many neural networks community. Recently without training a convolutional neural networks, the algorithm quickly learn and master the game of 'Go'[@silver_mastering_2017].
 
-## An end.
+```{r hello-benji,echo=FALSE,fig.cap='Network',fig.align='center'}
+knitr::include_graphics('img/neural-network.jpeg')
+```
 
-With a sentient machine, we can deploy their utility in foster home and lonely people who just need a touch of human interaction. By providing what seems to be missing in their hearts, sentient machine can fulfill a part of our society and can establish themselves as a small domain. 
+## Utilities of Neural Network.
 
-
+Facial recognition in smartphones, voice recognition in security checkpoint, retina scanning in medical checkup, all can be contributed to powerful neural network algorithm. Google neural network can now predict our health through retina scanning technology[@noauthor_google_nodate]. If neural network can specialize in one domain, imagine a robot that has all the power of neural networks capability stored in its humanoid brain. 
