@@ -8,7 +8,7 @@ Authors: Kenneth Chen
 
 Recently there is a debate in scientific community if machine could ever develop consciousness. What defines consciousness? Authors Stanislas and colleagues claimed that it is not possible for machine to develop consciousness [@dehaene_what_2017]. It's hard to define consciousness when there are many domains that play a role in being conscious of something. It could be our being present at the moment, our ability to interact with surrounding, etc etc etc. 
 
-```{r hello-benji,echo=FALSE,fig.cap='Network',fig.align='center'}
+```{r hello-nn,echo=FALSE,fig.cap='Network',fig.align='center'}
 knitr::include_graphics('img/neural-network-ani.jpg')
 ```
 
@@ -16,7 +16,7 @@ knitr::include_graphics('img/neural-network-ani.jpg')
 
 If we also look at the ancient game 'Go' where the number of possible 'Go' games is far more larger than all the atoms combined in the universe. The game has an intricacy of human cognitive abilities and strategic movement. The game stood the test of time for at least 3000 years. Now with a more powerful neural networks developed at Google Deepmind, AlphaGo has managed to beat the top player from South Korea, Lee Sedol two out of three games[@knapton_alphago_2017]. This performance of convolutional neural networks has indeed piqued interest in many neural networks community. Recently without training a convolutional neural networks, the algorithm quickly learn and master the game of 'Go'[@silver_mastering_2017].
 
-```{r hello-benji,echo=FALSE,fig.cap='Network',fig.align='center'}
+```{r hello-nn-clear,echo=FALSE,fig.cap='Network',fig.align='center'}
 knitr::include_graphics('img/neural-network.jpeg')
 ```
 
