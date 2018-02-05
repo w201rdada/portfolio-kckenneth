@@ -1,4 +1,4 @@
-# Human vs Robot {#slug-one}
+# Human vs Robot {#slug-two}
 
 Author: Kenneth Chen
 
