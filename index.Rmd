@@ -43,6 +43,6 @@ If and only if could machines understand what we think. If consciousness is one 
 
 ## About me {-}
 
-I am Kenneth Chen. My interest in machine learning and neural networks has roots in my earlier exposure to human biology and academic research. Previously I studied vesicle trafficking in cells and cancers-related human biology. Currently I am a postdoctoral fellow at the Rockefeller University where I typically manage microscopic images of 0.5TB in size by image processing and refinement by machine learning program. 
+I am Kenneth Chen. My interest in machine learning and neural networks has roots in my earlier exposure to human biology and academic research. I did my doctoral dissertation on vesicle trafficking in cells and cancers-related human biology in Cornell University. Currently I am a postdoctoral fellow at the Rockefeller University where I typically manage microscopic images of 0.5TB in size by image processing and refinement by machine learning program. 
 
 *Updated: `r Sys.Date()`*
