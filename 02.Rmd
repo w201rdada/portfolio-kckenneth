@@ -2,13 +2,13 @@
 
 Author: Kenneth Chen
 
-#### Machine learning, sentient algorithms
+#### "Friends" indeed when in need with sentient algorithms
 
 A sentient robot
 
 ## Introduction.
 
-If and only if could machines understand what we think. If consciousness is one of the fundamentals that make a difference between living species and machines, I wonder what about a flying bird? Do humans have consciousness of flying? What about other people's mind? We can only imagine what other people think in their minds. One own's consciousness can never be shared with others. There was never a visceral experience that can be gained from somebody else consciousness. In fact, experiences are derivatives based on one's own personal experience. 
+Social interaction is a fundamental foundation of all humans well-being. Isolation from a social community or lack of social interaction can lead to severe depression and mental illness. With ever increasing demand of work for younger adults and professionals alike, elderly and younger people find themselves ever lacking in proper development of social behavior which can lead to depression and further isolation from social network. With a development of sentient algorithm, we can provide something useful to the society that needs someone who can understand their needs in time.
 
 ```{r hello-humanoid,echo=FALSE,fig.cap='Network',fig.align='center'}
 knitr::include_graphics('img/humanoid.jpg')
@@ -16,7 +16,7 @@ knitr::include_graphics('img/humanoid.jpg')
 
 ## Application.
 
-With regards to the statement above, we are now embarking upon an era of beginning of sentient machine. Can machines think? Do machine have knowledge? With the development of multi-convoluted neural networks with a powerful capacity, sentient machine or bots can speak to each other in way that we have never imagined before. Recently in FAIR (Facebook AI Research) two bots were communicating in their own language[@mckay_no_nodate]. 
+A robot that can understand your feelings, that can retrieve information for your question, and even provide useful knowledge to your daily well-being. Imagine the robot that you once had a conversation and happened to mention "I once had an arthritis", will remind you next time "Be careful of the steps, bring some medications for your health." when you mention that you're going for a hiking. A personal friend who look out for your medical condition. Or when you need a healthy conversation with your friend, you can express your opinion without worrying about any harm befallen upon you in the future. With regards to the statement above, we are now embarking upon an era of beginning of sentient machine or specifically sentient algorithm. Can machines think? Do machine have knowledge? With the development of multi-convoluted neural networks with a powerful capacity, sentient machine or bots can speak to each other in way that we have never imagined before. Recently in FAIR (Facebook AI Research) two bots were communicating in their own language[@mckay_no_nodate].
 
 ```{r hello-matrix,echo=FALSE,fig.cap='Network',fig.align='center'}
 knitr::include_graphics('img/matrix.jpg')
@@ -24,6 +24,4 @@ knitr::include_graphics('img/matrix.jpg')
 
 ## Future.
 
-With a sentient machine, we can deploy their utility in foster home and lonely people who just need a touch of human interaction. By providing what seems to be missing in their hearts, sentient machine can fulfill a part of our society and can establish themselves as a small domain. There have been a few studies where interaction with human like machines improve cognitive ability of elderly in foster home[@zhuang_impact_2013]. In Japan, nurses-like robots are taking place in hospitals[@noauthor_japan_nodate][@osborne_robots_nodate]. 
-
-
+With a sentient machine, we can deploy their utility in foster home and lonely people who just need a touch of human interaction. By providing what seems to be missing in their hearts, sentient machine can fulfill a part of our society and can establish themselves as a small domain. There have been a few studies where interaction with human like machines improve cognitive ability of elderly in foster home[@zhuang_impact_2013]. In Japan, nurses-like robots are taking place in hospitals[@noauthor_japan_nodate][@osborne_robots_nodate].
