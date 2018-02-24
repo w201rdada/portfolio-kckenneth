@@ -1,4 +1,4 @@
-# Neural Networks {#slug-one}
+# Neural Networks {#Neural-Networks}
 
 #### Keywords {-}
 
